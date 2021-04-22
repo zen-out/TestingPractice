@@ -1,7 +1,9 @@
-/**********************************************
- * What would I really want to know about testing routes?
- * ==================================
- * - Organization
- * - Libraries
- * - Syntax
- ***********************************************/
+class Routes {
+  constructor() {}
+  getAll() {}
+  get() {}
+  edit() {}
+  post() {}
+  delete() {}
+}
+module.exports = Routes;
