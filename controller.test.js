@@ -1,7 +1,7 @@
 const request = require("supertest");
 
 // This is integration testing - I'm requesting the routes and the database
-const controller = require("../../controller");
+const controller = require("./controller");
 describe("advice routes", () => {
   beforeAll(() => {});
 
